@@ -1,2 +1,5 @@
-# Japan_yelp
-visitor prediction
+# restaurant_visitor_prediction
+script one : xgboost and lightgbm 
+script two : gradient boosting regressor and knn
+
+
